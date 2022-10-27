@@ -7,7 +7,7 @@ import com.example.demo_gradle.Model.Date;
 @org.springframework.stereotype.Service
 public class DateService {
     int num=0;
-    int version=1;
+    int version=2;
 
     public Date get_time()
     {
